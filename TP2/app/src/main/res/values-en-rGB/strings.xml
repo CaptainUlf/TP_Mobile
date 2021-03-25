@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC calculation</string>
+    <string name="d_terminez_votre_poids">Set your weight :</string>
+    <string name="poids">Weight :</string>
+    <string name="d_terminez_votre_taille">Set your height :</string>
+    <string name="taille">Height :</string>
+    <string name="m_tre">Meter</string>
+    <string name="centim_tre">Centimeter</string>
+    <string name="appr_ciation">Commentary</string>
+    <string name="r_sultat">Result :</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">You have to click on the button \" IMC calculation \" to get your result.</string>
+    <string name="calculer_l_imc">IMC calculation</string>
+</resources>
