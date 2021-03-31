@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP4_Saison</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="titre_section0">Printemps</string>
+    <string name="titre_section1">Été</string>
+    <string name="titre_section2">Automne</string>
+    <string name="titre_section3">Hiver</string>
+    <string name="titre_section4">Saisons</string>
+</resources>
